@@ -27,8 +27,8 @@ Autograph is built on a foundation of Infrastructure-as-Code (OpenTofu) and GitO
 
 ## 🎯 Who Autograph Is For
 
-Autograph is built for **teams and companies**, not solo users chatting with AI.  
-It’s ideal for **startups, SaaS, and dev-focused companies** that update docs, blogs, and content **frequently**.  
-Autograph acts as a **system of record** where AI creates and updates content using **historical context**.  
-Unlike ChatGPT, it provides **structure, memory, workflows, and APIs** for reuse across products.  
-If multiple people touch content weekly, **Autograph fits**—otherwise, it’s overkill.
+- Autograph is built for **teams and companies**, not solo users chatting with AI.  
+- It’s ideal for **startups, SaaS, and dev-focused companies** that update docs, blogs, and content **frequently**.  
+- Autograph acts as a **system of record** where AI creates and updates content using **historical context**.  
+- Unlike ChatGPT, it provides **structure, memory, workflows, and APIs** for reuse across products.  
+- If multiple people touch content weekly, **Autograph fits**—otherwise, it’s overkill.
